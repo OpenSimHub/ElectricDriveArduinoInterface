@@ -2,6 +2,8 @@
 
 This repositoy contains the source files for the Electric Drive Ardunio Interface that was developed during the Master's Thesis of [@AnnikenKva](https://github.com/AnnikenKva) at the [University of South-Eastern Norway](https://www.usn.no) in Spring 2022.
 
+![Image of physical setup](setup.jpg)
+
 ## Repository description
 
 The repository is organised in the following way:
